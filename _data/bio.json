@@ -1,57 +1,45 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Eva Asiskovich",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://evaa21.github.io/images/evaprofile.jpg",
+    "email": "eva21@hawaii.edu",
+    "phone": "808-649-0133",
+    "website": "https://evaa21.github.io",
+    "summary": "I am a student studying for a BBA in Finance, Accounting, and Management Information Systems at the University of Hawaii Shidler College of Business. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "59-670 Alapio Rd.",
+      "postalCode": "96712",
+      "city": "Haleiwa",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "evaa21",
+        "url": "http://github.com/evaa21"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "evaasiskovich",
+        "url": "http://linkedin.com/in/evaasiskovich"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "stock market",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "data analysis",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "sustainability",
       "keywords": [
       ]
     }
