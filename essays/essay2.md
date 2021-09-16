@@ -1,11 +1,13 @@
+---
 layout: essay
 type: essay
 title: UI Basics Technical Essay
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-14
-labels: Coding
-  - 
----
+labels: 
+  - Coding
+--- 
+
 When I first began this class I was particularly nervous about the assigmnets. In particular, I was nervous about the workouts of the day (WOD's) due to the fact that I am not very experienced in coding. 
 I have taken a few online courses in various computer languages, however I felt that I did not retain enough information to take anything further. I believe that these courses were insightful, but they did not offer assignments that tested my ability.
 The three browser history assignments definitely tested my abilities in terms of what I have learned so far in this course. Additionally, it was really helpful to be put under a time pressure while still having the freedom to try again. 
