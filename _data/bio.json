@@ -6,7 +6,7 @@
 		"email": "eva21@hawaii.edu",
 		"phone": "808-649-0133",
 		"website": "https://evaa21.github.io",
-		"summary": "I am a student studying for a BBA in Finance, Accounting, and Management Information Systems at the University of Hawaii Shidler College of Business. I expect to graduate in Spring, 2022.",
+		"summary": "I am a student studying for a BBA in Finance, Accounting, and Management Information Systems along with a minor in Economics at the University of Hawaii Shidler College of Business. I expect to graduate in Spring, 2024.",
 		"location": {
 			"address": "59-670 Alapio Rd.",
 			"postalCode": "96712",
@@ -82,14 +82,15 @@
 		}
 	],
 	"work": [{
-		"company": "NikoibyKai",
-		"position": "Bookkeeper",
-		"startDate": "2020-11-01",
+		"company": "Maybank Kim Eng Securities",
+		"position": "Sales and Trading Intern",
+		"startDate": "2022-04-18",
 		"endDate": "Present",
-		"summary": "Tracking expenses and income",
+		"summary": "World-wide operations providing investment banking and advisory services. In addition to offering equities, options, futures, commodity derivatives, ETFs, and fixed income securities trading services.",
 		"highlights": [
-			"Maintain, update, and oversee transactional activities",
-			"Conduct business analysis and consult"
+			"Provide market summary at the end of US market close for colleagues and clientele",
+			"Examine global corporate news in addition to earnings release and compare market expectations",
+      "Collect macroeconomic data and monitor Federal Open Market Committee actions"
 		]
 	}],
 	"volunteer": [{
