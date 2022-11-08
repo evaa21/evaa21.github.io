@@ -1,3 +1,12 @@
+---
+layout: essay
+type: essay
+title: My progress in Programming Report
+# All dates must be YYYY-MM-DD format!
+date: 2022-09-08
+labels: 
+  - Progress
+--- 
 My programming skills have greatly improved in the following ways:
 
 I need to work on the following to improve my programming skills:
