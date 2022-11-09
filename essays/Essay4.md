@@ -30,3 +30,6 @@ Sometimes we would go through the labs very quickly and I would miss a few expla
 
 What helps me the most in class are (WODs, Labs, class website, screencasts, readings, quizzes, one on one help, working with classmates, etc.):
 The labs definitely helped me the most in this class becuase it was a summation of hands on experience, readings, working with classmates, and independent work. All of these aspects combined make the class so much fun, and I find that I learn so much more when I am also having fun. The labs gave me the opportunity to get comfortable by following along while also giving me confidence upon completeing the "do on your own" sections. I think after lab 3 I really began to feel my progress through my independent work which is the most rewarding part of this class. 
+
+Conclusion
+Overall, this has been a really great learning experience. I am looking forward to what comes next in this course. This course has made feel prepared for the next classes in my MIS degree. It has made me feel more confident in applying what I have learned in my career and potentially taking my programming skills further in the future. 
