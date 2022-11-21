@@ -7,31 +7,31 @@ date: 2022-11-20
 labels: 
   - Reflection
 --- 
-Introduction
+Introduction<BR>
 This assignment gave me a lot to think about. My partner and I had spent a lot of time planning, mapping, discussing, implementing, testing, etc. Assignment 2 was much more challenging than I had initially imagined. There were a lot of different aspects to think about, and frankly as someone who has not had much experience with programming prior to this class, it was a steep learning curve. Perhaps a bit too steep at times. Nevertheless, with the help of my partner, the professor, and the TA the assignment was complete to the best of my ability.
 
-Provide a brief introduction to the assignment along with a link to this page for further details
+Provide a brief introduction to the assignment along with a link to this page for further details<BR>
 [Assignment 2](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html) took the applications from Assignment 1 a step further. It basically pushed us as programmers to make the application a more realistic e-commerce store. Basically we had to incorporate more functions to recognize users with login and registration forms. Along with these forms we had to validate the data and be sure to save it in our system. We had to be sure that users were registered and logged in before they could move forward with their purchases. Additionally we needed to take the user data and use it to personalize the application moving forward. There were numerous other details we had to consider and implement. 
 
-What did you learn from this assignment?
+What did you learn from this assignment?<BR>
 Despite everyhting I had learned throughout this course, the assignment was extremely challenging for me. First of all, I learned how much I didn't know about developing a fully functioning e-commerce store, and that web developers deserve every penny earned. Jokes aside, I learned about implementing encryption, personalization, security, etc. A lot of this was learned from online sources; for example, how to get encryption. I also learned how to efficiently collaborate with a partner throughout the process of programming and problem solving digitally. 
 
-Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).
+Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).<BR>
 I worked with Bobby Roth and I would like to assign him an estimated 55% and myself with the remaining 45%. We aimed to equally contribute and split the work down the middle and communicate through discord. My partner Bobby did a lot of the back-end development including the functions such as the requests and responses for GET and POST methods. We spent most of the time collaboarting and solving problems as a unified team so its difficult to specifically split up the work that we each did. I worked a lot on the front-end design for forms appearance and validation on checking the email format, password, etc. In addition to working on success login, register login, comments, and encryption. The encryption part was fairly difficult so I asked Bobby to help me figure that out. He has some experience with coding and I think he taught me how to be a better programmer. For example, he would point out my errors before they spiral and had showed me the importance of reading the purpose and functionality of each line when I would get stuck. He also implemented additional IR's and I followed along as he did them. Therefore I think Bobby should get a bigger estimated percentage. 
  
-How did you get help when you needed it? What did you need help with?
+How did you get help when you needed it? What did you need help with?<BR>
 Whenever I would get stuck there was always someone to help. First I would simply ask my partner bobby. If we both could not figure it out then one of us would ask the professor or the TA. Sometimes, for more general issues we would ask other classmates if its an issue they had dealt with too. For example, I couldn't figure out the encryption so I asked Bobby for help. We thought we had it figure out but then we couldnt figure out the comparison part, so Bobby asked the TA while we waited for his response on discord we kept searching online for clues and eventually got help from the professor. We also had some issues with the query strings so Bobby and I joined office hours over zoom to get more help from the professor. It turned out that other people were dealing with the same issues. When trying to figure out the additional IR's I went ahead and asked the class discord chat on the best way to approach the tasks. Basically anytime I needed help I simply asked for it from whoever I could think of.
 
-How was developing this assignment different than assignment #1?
+How was developing this assignment different than assignment #1?<BR>
 As mentioned, developing Assignment 2 was much more challenging than the Assignment 1. It was more time consuming in terms of thinking about how we would actually implement the requirement of the assignment. Although we learned some applications in the class labs it seemed like there was more to figure out for ourselves than the previous assignment. Also, it seemed like we had way less time to complete the assignment, and would have appreciated a few extra days to figure out and double check a few details. This assignment was much more difficult and took a lot of thought in how users interact with applications and bypassing security measures online.
 
-Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging
+Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging<BR>
 I would like to say that approximately 85% of the time spent was thinking about how to do something. Bobby and I had actually drawn a diagram to map out what we wanted to do and edited the diagram on numerous occasions. Then about 5% would be allocated to writing the code and the remaining 10% to testing and debugging. It took more time testing and debugging then writing the code mainly because inputting user data in the forms was time consuming and figuring out buggs throughout hundreds of lines of code is no easy task. There were times were we had to read out loud at least 50 lines of code at a time to make sure we had not missed something.
 
-Describe what worked well with this project? What did not work well?
+Describe what worked well with this project? What did not work well?<BR>
 Considering the amount allocated to debugging and testing we realized that writing 50 lines of code at time did not work well. Also, we realized that it would be easier to work on one main branch in the repository instead of individually working on the same repository from two different computers. We had encountered a few merge conflicts which did not work well for us. However, discord had proven to work extremely well for us since we could share our codes through the chat in the application. We could also do screencast for as long as we wanted which had been a huge life saver. 
 
-If you could go back in time and do things differently, what would you do differently?
+If you could go back in time and do things differently, what would you do differently?<BR>
 If I could go back in time and do things differently I would have spent more time on the UI design for the invoice. I rationalized and told myself that it looked fine but looking back I would have done more esspecially if more time had been provided. Also as mentioned I would implement code in more increments. Would also be sure to work on one computer or use forks more efficiently. 
 
 Conclusion<BR>
