@@ -34,5 +34,5 @@ Considering the amount allocated to debugging and testing we realized that writi
 If you could go back in time and do things differently, what would you do differently?
 If I could go back in time and do things differently I would have spent more time on the UI design for the invoice. I rationalized and told myself that it looked fine but looking back I would have done more esspecially if more time had been provided. Also as mentioned I would implement code in more increments. Would also be sure to work on one computer or use forks more efficiently. 
 
-Conclusion
+Conclusion<BR>
 With the assignment being as challenging as it was I am fairly pleased with the finished product. Of course there is always something to be improved upon. Relative to the knowledge I had prior to this class, I have definetly come a very long way. I am very grateful for the opportunity to be collaborat with my a partner such as Bobby Roth and have learned many technical skills throughout the process of completing this assignment. With every assignment completed I can see my skills improve. Although I am nervous about the difficulty of assignment 3 I look forward to gaining even more skills as we approach the conclusion of this class. 
