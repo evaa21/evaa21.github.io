@@ -1,3 +1,12 @@
+---
+layout: essay
+type: essay
+title: Assignment 3 Checkpoint
+# All dates must be YYYY-MM-DD format!
+date: 2022-11-30
+labels: 
+  - Checkpoint 
+--- 
 
 Introduction: <BR>
 Assignment 3 is almost complete with only a few more features and adjustments left to make. Working in a team of 3 has had its advantages along with a few disadvantages. 
