@@ -7,7 +7,8 @@ date: 2022-12-14
 labels: 
   - The End
 --- 
-Introduction
+Introduction <p>
+
 I am really happy how the finished project came out and I could not have gotten to this point without the collaboration of my peers. This class was extremely diffuclt and seemingly impossible at times considering my limited experience in programming. Our store offers the fundamental capabilities of a fully functioning e-commerce store. I am very proud of my work and have even showed friends and family my progress along the way as the store became more advanced over time. 
 
 Briefly describe your system (e.g. A store selling Pokemon game cards)
@@ -62,5 +63,5 @@ Assign an estimated percentage on the amount each team member contributed to the
 30% is attributed to Alex since he worked a lot on the entire Admin portion in addition to debugging and adding various features across the website.
 The remaining 25% goes to me as I did some validation, UI designing including the, navigation bar, making sure comments are in place, and acting as the project manager making sure guidelines and deadlines are met as well as helping out wherever I could.
 
-Conclusion
+Conclusion <p>
 I wouldn't want to go back and change anything and am happy leaving the past in the past. However I would like to mention that this class is extremely advanced for people without coding experience and I am glad to complete it to the end. THe completion of this course alone feels like an accomplishment in itself, thank you. Not sure if I would want to commit that much time to a single class ever again. I appreciate the skills and knowledge earned despite the cost to time and slight sanity, just kidding, kind of :) Happy Holidays!
