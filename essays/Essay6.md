@@ -1,3 +1,12 @@
+---
+layout: essay
+type: essay
+title: Evaluation Guidelines and Class Retrospective BLOG
+# All dates must be YYYY-MM-DD format!
+date: 2022-12-14
+labels: 
+  - The End
+--- 
 Briefly describe your system (e.g. A store selling Pokemon game cards)
 
 We created a store that sells Betta fish. Along with Betta fish, the store offers other products including fish tanks and plants to decorate the fish tank.
